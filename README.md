@@ -1,2 +1,4 @@
-# react-glossary
-Glossary of React Terms
+# glossary
+React  - https://reactjs.org/docs/glossary.html
+
+Git  - https://git-scm.com/docs/gitglossary
